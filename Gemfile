@@ -41,7 +41,7 @@ gem 'paperclip', '6.1.0'
 gem 'cloudinary'
 gem 'will_paginate'
 gem 'redis'
-gem 'sidekiq'
+gem 'sidekiq', '6.4.2'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
