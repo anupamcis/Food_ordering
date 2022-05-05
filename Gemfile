@@ -65,7 +65,7 @@ group :development, :test do
   gem "codeclimate-test-reporter", require: nil
   gem 'flog', '~> 4.6.5'
   # Access an IRB console on exception pages or by using <%= console %> in views
-  gem 'web-console', '~> 2.0'
+  gem 'web-console', '~> 4.2'
   gem 'launchy'
   gem 'letter_opener'
 end
