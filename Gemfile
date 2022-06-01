@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 2.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
-gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt', '3.1.17'
 
 gem 'paperclip', '6.1.0'
 gem 'cloudinary'
